@@ -16,4 +16,4 @@ Fork & clone this project into ~/dev/glist/glistplugins
 5. Get the value with the getValue() function and use it in your code.
 
 ## License
-MIT
+Apache 2.0

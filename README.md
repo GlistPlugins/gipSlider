@@ -13,7 +13,7 @@ Fork & clone this project into ~/dev/glist/glistplugins
 
 	**`gipSlider`**`slider`
 4. Simply set it up in a line as shown in the example folder.
-5. Use it in your project to get values from the slider.
+5. Get the value with the getValue() function and use it in your code.
 
 ## License
 MIT

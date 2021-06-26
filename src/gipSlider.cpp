@@ -121,6 +121,10 @@ void gipSlider::setScale(float tracksx, float tracksy, float thumbsx, float thum
 	setPosition(trackx, tracky); // recalculate the the thumb's position
 }
 
+float gipSlider::getValue() {
+	return value;
+}
+
 void gipSlider::mouseDragged(int x, int y, int button) {
 	if(dragging) {
 		thumbx += (x - mouseinitialx);

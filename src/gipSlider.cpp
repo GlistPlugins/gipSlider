@@ -18,7 +18,7 @@ gipSlider::~gipSlider() {
 }
 
 int gipSlider::generateID() {
-	return (nextSliderID++) - 1;
+	return nextSliderID++;
 }
 
 int gipSlider::getID() {

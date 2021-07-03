@@ -3,7 +3,7 @@ This GlistEngine plugin draws a slider on the screen at the given coordinates an
 ## Installation
 Fork & clone this project into ~/dev/glist/glistplugins
 ## Usage
-1.  Add gipSliderinto plugins of your `GlistApp/CMakeLists.txt`
+1.  Add gipSlider into plugins of your `GlistApp/CMakeLists.txt`
 
 	**` set(PLUGINS gipSlider)`**
 2. Include `gipSlider.h` in your `GameCanvas.h`
